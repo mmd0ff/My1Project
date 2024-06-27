@@ -1,0 +1,16 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#EF1818</color>
+    <color name="green">#02EF22</color>
+    <color name="fiol">#9C27B0</color>
+    <color name="biryuzoivi">#05FBE4</color>
+    <color name="blue">#3F51B5</color>
+    <color name="purple">#4F1A57</color>
+    <color name="deeppurple">#CE8FFF</color>
+    <color name="purple2">#7C288A</color>
+    <color name="purple3">#A92FBD</color>
+</resources>
